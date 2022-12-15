@@ -25,7 +25,7 @@ There are different types of spelling errors.
 
 **TECHNOLOGY USE**
 
-Anaconda, Python, Tensorflow
+Anaconda, Python, Tensorflow, Web Frame Work - Flask
 
 **INSTALLATION**	
 
