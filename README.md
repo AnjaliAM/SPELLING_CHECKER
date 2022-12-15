@@ -1,10 +1,10 @@
-SPELLING CORRECTOR
+#SPELLING CORRECTOR
 
-PROBLEM STAEMENT
+##PROBLEM STAEMENT
 
 In this project we will be using deep learning approaches to build a spelling corrector.
 
-DESCRIPTION OVERVIEW
+**DESCRIPTION OVERVIEW**
 
 A word needs to be checked for spelling correctness and corrected if necessary, many a time in the context of the surrounding words. A spellchecker points to spelling errors and possibly suggests alternatives. An autocorrector usually goes a step further and automatically picks the most likely word. In case of the correct word already having been typed, the same is retained.
 
@@ -23,11 +23,11 @@ There are different types of spelling errors.
 
 
 
-TECHNOLOGY USE
+**TECHNOLOGY USE**
 
-Here we will be using  Anaconda Python 3.6 , Keras 2.2.4 using TensorFlow GPU 1.14.0 backend CUDA 10 with CuDNN 10 
+Anaconda, Python, Tensorflow
 
-INSTALLATION	
+**INSTALLATION**	
 
 Installation of this project is pretty easy. Please do follow the following steps to create a virtual environment and then install the necessary packages in the following environment.
 
