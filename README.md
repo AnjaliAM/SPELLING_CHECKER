@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 
 
-![results]()
+![results](https://github.com/AnjaliAM/SPELLING_CHECKER/blob/main/results1.png)
 
 **CONCLUSION**	
 
