@@ -1,6 +1,6 @@
-#SPELLING CORRECTOR
+# SPELLING CORRECTOR
 
-##PROBLEM STAEMENT
+## PROBLEM STAEMENT
 
 In this project we will be using deep learning approaches to build a spelling corrector.
 
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 
 
-
+![results]()
 
 **CONCLUSION**	
 
