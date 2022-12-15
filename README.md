@@ -48,3 +48,18 @@ In Conda also it’s eay
 3. Install the necessary packages from requirements.txt file using the command         
 pip install -r requirements.txt
 
+![Basic Workflow](https://github.com/AnjaliAM/SPELLING_CHECKER/blob/main/WORKFLOW.jpg)
+
+
+
+
+
+**CONCLUSION**	
+
+Here we have successfully built a spelling checker and corrector which can be used to correct spelling if the user gives misspelled words.
+
+**COMPARISION**
+
+We can build better accurate models using pretrained models like BERT, GPT2 etc. Also here we have given very less training data but the user can increase the sizing of training data which will help to build a better model with better prediction.
+
+
